@@ -1,6 +1,6 @@
 Alternate test fixtures for [Privacy Badger](https://github.com/EFForg/privacybadger).
 
-These are used for testing third-party interactions, when we need the fixture to be served by a domain different from the primary test domain.
+Serves resources from `child1.privacybadger-tests.eff.org`. Used for testing scenarios where one third party is a subdomain of the other third party.
 
 Primary fixtures live in https://github.com/EFForg/privacybadger-test-fixtures.
 
